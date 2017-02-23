@@ -26,3 +26,31 @@ C:\Users\Administrator\Desktop\ITL\ITL System Administrator\ITL System Administr
 C:\Users\Administrator\Desktop\ITL\ITL System Administrator\ITL System Administrator\obj\Debug\ITL System Administrator.dll
 C:\Users\Administrator\Desktop\ITL\ITL System Administrator\ITL System Administrator\obj\Debug\ITL System Administrator.pdb
 C:\Users\Administrator\Desktop\ITL\ITL System Administrator\ITL System Administrator\obj\Debug\ITL System Administrator.csprojResolveAssemblyReference.cache
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\ITL System Administrator.dll.config
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\ITL System Administrator.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\ITL System Administrator.pdb
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\Microsoft.Web.Infrastructure.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\Newtonsoft.Json.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Net.Http.Formatting.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Helpers.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Http.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Http.WebHost.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Mvc.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Razor.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.WebPages.Deployment.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.WebPages.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.WebPages.Razor.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\Newtonsoft.Json.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Net.Http.Formatting.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Helpers.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Http.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Http.WebHost.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Mvc.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.Razor.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.WebPages.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.WebPages.Deployment.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\bin\System.Web.WebPages.Razor.xml
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\obj\Debug\ITL System Administrator.csprojResolveAssemblyReference.cache
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\obj\Debug\ITL System Administrator.dll
+D:\ITLSystem\ITL System Administrator\ITL System Administrator\obj\Debug\ITL System Administrator.pdb

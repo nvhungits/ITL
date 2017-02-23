@@ -1108,17 +1108,22 @@
 					    </form>
 					    <!-- END RESPONSIVE QUICK SEARCH FORM -->
 				    </li>
-				    <li class="start active open">
+                    <%
+                        string urlPath = Request.Url.AbsolutePath;
+                        if (urlPath == "/")
+                            urlPath = "Home";
+                    %>
+				    <li class="<%=(urlPath.IndexOf("Home") > -1 ? "active" : "") %>">
 					    <a href="/Home/Index">
 					        <i class="icon-home"></i>
 					        <span class="title">Dashboard</span>
                         </a>
 				    </li>
-				    <li>
+				    <li class="<%=(urlPath.IndexOf("Hotel") > -1 ? "active open" : "") %>">
 					    <a href="javascript:;">
 					        <i class="icon-basket"></i>
 					        <span class="title">ITL Hotel</span>
-					        <span class="arrow "></span>
+					        <span class="arrow <%=(urlPath.IndexOf("Hotel") > -1 ? "open" : "") %>"></span>
 					    </a>
 					    <ul class="sub-menu">
 						    <li>
