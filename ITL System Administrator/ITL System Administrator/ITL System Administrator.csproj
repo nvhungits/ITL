@@ -1284,6 +1284,7 @@
     <Content Include="assets\global\scripts\metronic.js" />
     <Content Include="Global.asax" />
     <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Hotel\RoomDetails.aspx" />
     <Content Include="Views\Hotel\Rooms.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">

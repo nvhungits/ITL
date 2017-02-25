@@ -26,6 +26,7 @@ namespace ITL_System_Administrator.Models.Hotel
             dt.Columns.Add("Available", typeof(int));
 
             int LengthRoom = 10;
+            dt.Rows.Add(9999, "Room" + 9999, "Welcome to Room" + 9999, "Welcome to Room" + 9999, "Normal", 0);
             for (int i = 0; i < LengthRoom; i++)
             {
                 int roomId = i+1;
@@ -53,6 +54,13 @@ namespace ITL_System_Administrator.Models.Hotel
                 lstRoom.Add(r);
             }
             return lstRoom;
+        }
+        public Room getRoomById(int Id)
+        {
+            IEnumerable<Room> roomDetails = from r in this.setRooms()
+                                            where r.RoomId == Id
+                                            select r;
+            return roomDetails.Single(); ;
         }
     }
 }
