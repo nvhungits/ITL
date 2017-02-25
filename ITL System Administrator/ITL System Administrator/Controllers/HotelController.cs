@@ -11,16 +11,15 @@ namespace ITL_System_Administrator.Controllers
     {
         //
         // GET: /Hotel/
-
+        Room r = new Room();
         public ActionResult Rooms()
         {
-            return View();
+            return View(r.setRooms());
         }
-
-        Room r = new Room();
-        public List<Room> setRooms()
+        public ActionResult RoomDetails()
         {
-            return r.setRooms();
+            int RoomId = Convert.ToInt32(Request.QueryString["RoomId"]);
+            return View(r.getRoomById(RoomId));
         }
     }
 }
